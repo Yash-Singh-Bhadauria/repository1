@@ -6,3 +6,4 @@ while i<=n:
     print(x)
     x,y=y,y+x
     i+=1
+print('Task is finished')      
